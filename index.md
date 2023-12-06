@@ -4,7 +4,7 @@ This is my home page! My name is Sarah Staats and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/sarsta.
+My GitHub page is [http://github.com/sarsta] (http://github.com/sarsta).
 
 ### CPSC 120
 
